@@ -13,8 +13,11 @@ How to run
 You need Git, the Flutter SDK, and Google Chrome.
 
 git clone https://github.com/betaniocorvera/Initial-Flutter-Web-Project.git
+
 cd Initial-Flutter-Web-Project
+
 flutter pub get
+
 flutter run -d chrome
 
 Planned
